@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://media.giphy.com/media/5wWf7H89PisM6An8UAU/giphy.gif)
+![alt text](https://media.giphy.com/media/5wWf7H89PisM6An8UAU/giphy-downsized.gif)
 
 <!--
 **JaZax/JaZax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
