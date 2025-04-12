@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I create random things.
+I create things.
 
 ![alt text](https://media.giphy.com/media/1rNWZu4QQqCUaq434T/giphy-downsized-large.gif)
 
