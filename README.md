@@ -1,20 +1,20 @@
-### Hi there 👋
+# Hi, I'm Iza
 
-I create things.
+I'm a Social Informatics student at AGH University of Science and Technology, passionate about data science, statistics, and the intersection of technology and society.
 
-![alt text](https://media.giphy.com/media/1rNWZu4QQqCUaq434T/giphy-downsized-large.gif)
+## 🔍 Interests
 
-<!--
-**JaZax/JaZax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Data Science & Statistics**: Analyzing data to uncover patterns and inform decisions.
+- **Social Network Analysis**: Understanding relationships and structures within social systems.
+- **Machine Learning**: Applying algorithms to learn from data and make predictions.
+- **Data Visualization**: Presenting data in intuitive and informative ways.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,r,js,react,nodejs,git,arduino)](https://skillicons.dev)
+
+## 📂 Notable Projects
+
+- [**steamFriendsGrapher**](https://github.com/JaZax/steamFriendsGrapher): A tool to visualize a Steam user's friend network.
+- [**geneticAlgorithm**](https://github.com/JaZax/geneticAlgorithm): A simple implementation of a genetic algorithm.
+- [**metroomnom**](https://github.com/JaZax/metroomnom): A metronome application built with React.
