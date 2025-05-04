@@ -16,5 +16,6 @@ I'm a Social Informatics student at AGH University of Science and Technology, pa
 ## 📂 Notable Projects
 
 - [**steamFriendsGrapher**](https://github.com/JaZax/steamFriendsGrapher): A tool to visualize a Steam user's friend network.
+- [**Ktane-irl**](https://github.com/ctrl-team/ktane-irl): Real life replica from Keep Talking & Nobody Explodes.
 - [**geneticAlgorithm**](https://github.com/JaZax/geneticAlgorithm): A simple implementation of a genetic algorithm.
 - [**metroomnom**](https://github.com/JaZax/metroomnom): A metronome application built with React.
